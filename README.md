@@ -1,2 +1,2 @@
 # words-cheat
-http://www.wordscheat.com
+https://www.wordscheat.com
