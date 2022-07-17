@@ -1,7 +1,7 @@
 <AppUpdater>
   <update>
-    <latestVersion>1.6</latestVersion>
-    <latestVersionCode>41</latestVersionCode>
+    <latestVersion>1.7</latestVersion>
+    <latestVersionCode>42</latestVersionCode>
     <url>https://github.com/usoppu/words-cheat/</url>
   </update>
 </AppUpdater>
